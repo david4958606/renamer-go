@@ -29,3 +29,4 @@ jobs:
             renamer_darwin_arm64
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
