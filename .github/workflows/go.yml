@@ -27,5 +27,6 @@ jobs:
             renamer_windows_amd64.exe
             renamer_darwin_amd64
             renamer_darwin_arm64
+            name_list.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
